@@ -2,16 +2,12 @@
 
 ## 1. AI 介紹
 
-### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Brief.html)
+### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2026/06/01/AI-Brief.html)
 
-### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
-
-### [PC 軟體安裝](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/PC-Softwares.html)
-
-### [OpenCV-Python 影像處理](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/OpenCV-Python.html)
+### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2026/06/01/AI-Hardwares.html)
 
 ---
-## 2. [卷積層神經網路 (Convolutional Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/03/CNN.html) <br>
+## 2. [卷積層神經網路 (Convolutional Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2026/06/02/CNN.html)
 
 * [MNIST-CNN](https://www.kaggle.com/code/rkuo2000/mnist-cnn)
 * [Fashion MNIST](https://www.kaggle.com/code/rkuo2000/fashionmnist-cnn)
@@ -29,7 +25,7 @@
 * [FashionMNIST-PyTorch](https://www.kaggle.com/code/rkuo2000/fashionmnist-pytorch/)
   
 ---
-## 3. [影像分類 (Image Classification)](https://rkuo2000.github.io/AI-course/lecture/2025/09/03/Image-Classification.html)
+## 3. 影像分類 (Image Classification)
 
 * [交通號誌偵測](https://www.kaggle.com/code/rkuo2000/gtsrb-cnn)
 * [表情偵測](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
@@ -46,7 +42,7 @@
 * [土地分類](https://www.kaggle.com/code/rkuo2000/eurosat-classification) [EuroSAT CNN](https://www.kaggle.com/code/rkuo2000/eurosat-cnn)
 
 ---
-## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2025/09/04/Object-Detection.html)
+## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2026/06/03/YOLO.html)
 **Dataset: [Roboflow](https://universe.roboflow.com/)** <br>
 
 * [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
@@ -63,7 +59,7 @@
 * [YOLOv13](), [YOLOv13-Tank](https://www.kaggle.com/code/rkuo2000/yolov13-tank)
 
 ---
-## 5. [影像分割 (Image Segmentation)](https://rkuo2000.github.io/AI-course/lecture/2025/09/05/Image-Segmentation.html)
+## 5. [影像分割 (Image Segmentation)](https://rkuo2000.github.io/AI-course/lecture/2026/06/03/Seg.html)
 
 * [Image Matting](https://www.kaggle.com/code/rkuo2000/modnet-image-matting)
 * [Semantic Segmentation](https://www.kaggle.com/code/rkuo2000/semantic-segmentation)
@@ -78,20 +74,20 @@
 
 
 ---
-## 6. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Pose-Estimation.html)
+## 6. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2026/06/03/Pose.html)
 * [PosNet](https://www.kaggle.com/code/rkuo2000/posenet)
 * [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose)
 * [YOLOv11-Pose](https://www.kaggle.com/code/rkuo2000/yolov11-pose)
 
 ---
-## 7. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Face-Recognition.html)
+## 7. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2026/06/03/Face.html)
 
 * [YOLOv12-Face](https://www.kaggle.com/code/rkuo2000/yolov12-face)
 * [DeepFace](https://www.kaggle.com/code/rkuo2000/deepface)
 * [FaceNet](https://www.kaggle.com/code/rkuo2000/facenet-pytorch)
 
 ---
-## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/07/RNN.html)
+## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2026/06/04/RNN.html)
 
 ### 股票預測
 * [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm), [Stock LSTM PyTorch](https://www.kaggle.com/code/rkuo2000/stock-lstm-pytorch)
@@ -111,7 +107,7 @@
 * [Senor Anomaly Detection](https://www.kaggle.com/code/rkuo2000/sensor-anomaly-detection)<br>
 
 --- 
-## 9. [生成對抗神經網路 (GAN)](https://rkuo2000.github.io/AI-course/lecture/2025/09/08/GAN.html)
+## 9. [生成對抗神經網路 (GAN)](https://rkuo2000.github.io/AI-course/lecture/2026/06/05/GAN.html)
 
 ### VAE
 * [Neural Transfer](https://www.kaggle.com/code/rkuo2000/neural-transfer)
@@ -128,7 +124,7 @@
 * [LivePortrait](https://www.kaggle.com/code/rkuo2000/liveportrait)
 
 ---
-## 10. [Generative Speech](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
+## 10. [Generative Speech](https://rkuo2000.github.io/AI-course/lecture/2026/06/05/Generative-Speech.html)
 
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
@@ -153,13 +149,13 @@
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
 
 ---
-## 11. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Song.html)
+## 11. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2026/06/06/Generative-Music.html)
 
 ### Text-to-Song
 * [jamify](https://www.kaggle.com/code/rkuo2000/jamify)
   
 ---
-## 12. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Image.html)
+## 12. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2026/06/06/Generative-Image.html)
 
 #### Text-to-Image
 * [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
@@ -179,11 +175,11 @@
 * [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
 
 ---
-## 13. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/Generative-Video.html)
+## 13. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2026/06/06/Generative-Video.html)
 
 ---
 ## 14. 大型語言模型 (LLM)
-### [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)
+### [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2026/06/07/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
@@ -191,12 +187,12 @@
 * [Llama-from-scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
 * [Llama4-from-scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
   
-### [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/VLM.html)
+### [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2026/06/07/VLM.html)
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
 * [Gemini-2-5-flash Image](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash-image)
   
 ---
-## 15. [AI代理 (Agent)](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
+## 15. [AI代理 (Agent)](https://rkuo2000.github.io/AI-course/lecture/2026/06/08/Agent.html)
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
@@ -219,7 +215,7 @@
  
 ---
 ## 16. 強化學習 (RL)
-### [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL.html)
+### [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2026/06/09/RL.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
@@ -229,6 +225,6 @@
 * [PyBullet-Gym Ant](https://www.kaggle.com/code/rkuo2000/pybullet-gym-ant)
 * [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
 
-### [RL Robot](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL-Robot.html)
+### [RL Robot](https://rkuo2000.github.io/AI-course/lecture/2026/06/09/RL-Robot.html)
 
-### [VLA](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/VLA.html)
+### [VLA](https://rkuo2000.github.io/AI-course/lecture/2026/06/09/VLA.html)
